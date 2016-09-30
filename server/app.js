@@ -128,6 +128,6 @@ app.use(router.routes());
 app.use(convert(historyApiFallback()));
 app.use(convert(cors()));
 app.use(convert(serve('./frontend/public/')));
-app.listen(80, () => console.log('server started 80'));
+app.listen(3000, () => console.log('server started 3000'));
 
 export default app;
