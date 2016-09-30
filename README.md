@@ -34,5 +34,14 @@ to run tests
 ```bash
 $ npm run test
 ```
-The Yii Developer Team
-http://www.yiiframework.com
+
+FEATURES
+-----------
+* [react](https://github.com/facebook/react)
+* [redux](https://github.com/rackt/redux)
+* [react-router](https://github.com/rackt/react-router)
+* [webpack](https://github.com/webpack/webpack)
+* [babel](https://github.com/babel/babel)
+* [koa](https://github.com/koajs/koa)
+* [karma](https://github.com/karma-runner/karma)
+* [eslint](http://eslint.org)
