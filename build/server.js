@@ -222,7 +222,7 @@
 	app.use((0, _koaConvert2.default)((0, _koaHistoryApiFallback2.default)()));
 	app.use((0, _koaConvert2.default)((0, _koaCors2.default)()));
 	app.use((0, _koaConvert2.default)((0, _koaStatic2.default)('./frontend/public/')));
-	app.listen(80, () => console.log('server started 3000'));
+	app.listen(8080, () => console.log('server started 3000'));
 
 	exports.default = app;
 
