@@ -2,7 +2,7 @@ import RestApiClient from './RestApiClient';
 
 export default class DoodleService {
     constructor() {
-        this.apiClient = new RestApiClient('http://localhost:3000/');
+        this.apiClient = new RestApiClient('http://localhost:80/');
     }
 
     /**
