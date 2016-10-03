@@ -6246,7 +6246,7 @@
 	    function DoodleService() {
 	        _classCallCheck(this, DoodleService);
 
-	        this.apiClient = new _RestApiClient2.default('http://localhost:8080/');
+	        this.apiClient = new _RestApiClient2.default('http://172.29.140.225:8080/');
 	    }
 
 	    /**
